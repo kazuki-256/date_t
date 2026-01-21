@@ -1,5 +1,10 @@
 #pragma once
 
+#ifndef _DATE_HPP_
+#define _DATE_HPP_
+
+
+
 #include <string.h>
 #include <time.h>
 #include <stdio.h>
@@ -459,3 +464,4 @@ public:
 };
 
 
+#endif // _DATE_HPP_
